@@ -34,16 +34,17 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.23'
 created: '2026-07-17'
-modified: '2026-07-20'
+modified: '2026-09-15'
 x-status: defunct
-x-status-note: 'Enrichment probe 2026-07-20: oxfordcaps.com resolves (AWS 3.33/15.197 parking
-  IPs) but serves a GoDaddy parked-domain lander (window._trfd ap:"parking", wsimg.com/parking-lander)
-  and redirects every path to /lander. No api./docs. subdomains resolve; all API/well-known
-  paths return the parking catch-all (text/html). No API surface, docs, SDKs, or developer
-  program exist. OxfordCaps was a student co-living startup (500 Global portfolio) that has
-  since shut down. Nothing to enrich; no fabricated artifacts produced.'
+x-status-note: 'Enrichment probe 2026-07-20: oxfordcaps.com resolves (AWS 3.33/15.197 parking IPs) but
+  serves a GoDaddy parked-domain lander (window._trfd ap:"parking", wsimg.com/parking-lander) and redirects
+  every path to /lander. No api./docs. subdomains resolve; all API/well-known paths return the parking
+  catch-all (text/html). No API surface, docs, SDKs, or developer program exist. OxfordCaps was a student
+  co-living startup (500 Global portfolio) that has since shut down. Nothing to enrich; no fabricated
+  artifacts produced.'
 tags:
 - Company
+- Defunct
 apis: []
 maintainers:
 - FN: Kin Lane
